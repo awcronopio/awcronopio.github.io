@@ -997,6 +997,10 @@ td {
       }
     
       a {
-        color: #9775fa;
+        color: #b197fc;
+      }
+    
+      a:hover {
+        color: #c5f6fa;
       }
     
