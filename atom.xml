@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://awcronopio.github.io</id>
     <title>暖气片🦢的快乐老家</title>
-    <updated>2020-10-01T03:53:11.073Z</updated>
+    <updated>2020-10-01T03:59:54.733Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://awcronopio.github.io"/>
     <link rel="self" href="https://awcronopio.github.io/atom.xml"/>
@@ -22,7 +22,7 @@
 </span></p>
 <p>大约今年下半年起，长毛象首页不断出现各种争吵，大段讨论串让观看者也觉得疲惫；其中逐渐累积起的语言的误解，恐怕也让当事人越来越难澄清自己的意图。</p>
 <p>对于十级废话选手和自我中心的人来说，在使用期间不得不顾及他人感受，如刷屏行为或言辞污秽等不被允许，还是有相当的压力——不想被人观看却又难免被人观看，还要考虑不相干人的想法。</p>
-<p>我自身技术白痴，一行代码也不会写，只会照葫芦画瓢；考虑自建实例站及之后的维护成本，再加入长毛象实在无太多必要。我只是自说自话，不期待与人沟通互联，成为联邦宇宙中的一颗孤独星球对我吸引力不大；但近日看到suica的漂亮蓝站（pleroma）又开始心动了，以后如有建站机会也未可知。</p>
+<p>我自身技术白痴，一行代码也不会写，只会照葫芦画瓢；考虑自建实例站及之后的维护成本，再加入长毛象实在无太多必要。我只是自说自话，不期待与人沟通互联，成为联邦宇宙中的一颗孤独星球对我吸引力不大；但近日看到<a href="https://cobaltkiss.blue/about">suica的漂亮蓝站</a>又开始心动了，以后如有建站机会也未可知。</p>
 <p>各个站对使用规则的解释和站民的观念千差万别，全凭大家自行协调，而我自己也是要么遵守规则、要么选择其它实例站，已经足够。</p>
 <p><span style="font-size: 20px;margin-below:20px;color:rgb(132,112,255)"><strong><br>
 开始搭建</strong><br>
