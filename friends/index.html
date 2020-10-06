@@ -2,9 +2,10 @@
 <html>
 
 <head>
-    <meta charset="utf-8" />
+    
+                <meta charset="utf-8" />
 <title>
-    暖气片🦢的快乐老家
+    Friends | 暖气片🦢的快乐老家
 </title>
 <!--[if lt IE 9]><script src="//cdn.bootcss.com/html5shiv/r29/html5.js"></script><![endif]-->
 <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport" />
@@ -52,6 +53,7 @@
                                 })();
                             </script>
                             
+                    
 </head>
 
 <body>
@@ -201,33 +203,57 @@
     
             <div class="main">
                 <div class="container">
-                    <div class="post-wrap archive">
-                        
+                    <article class="post-wrap">
+                        <header class="post-header">
+                            <h1 class="post-title zh">
+                                &#x53CB;&#x94FE;
+                            </h1>
+                            <h1 class="post-title en">
+                                Friends
+                            </h1>
+                        </header>
+                        <div class="post-content">
                             
-                                <h3>
-                                    2018
-                                </h3>
                                 
-                                    
-
-                                        <article class="archive-item">
-                                            <a class="archive-item-link" href="https://awcronopio.github.io/post/hello-gridea/">
-                                                Hello Gridea
+                                    <div class="friend-box">
+                                        <img class="friend-avatar" src="https://blog.itjoker.cn/images/avatar.png">
+                                        <div class="flink-info">
+                                            <a href="https://blog.itjoker.cn" target="_blank">
+                                                ITJoker
                                             </a>
-                                            <span class="archive-item-date">2018-12-12 </span>
-                                        </article>
+                                            <br />
+                                            ITJoker&#39;s Blog
+                                        </div>
+                                    </div>
+                                    
                                         
-                                            
-                                                
-                    </div>
-                    <div class="pagination-container">
-                        
-                                                
-                                                        
-                                                                
-                    </div>
+                        </div>
+                    </article>
                 </div>
             </div>
+            
+                
+                    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+<script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+
+<div id="gitalk-container" style="width: 100%;max-width: 780px;margin: auto;"></div>
+
+<script>
+    var gitalk = new Gitalk({
+        clientID: 'b459a4e98d0f97ff0455',
+        clientSecret: '0c3b2df8a5be99c2048a63e5048d879cfd799cbc',
+        repo: 'awcronopio.github.io',
+        owner: 'awcronopio',
+        admin: ['awcronopio'],
+        id: (location.pathname).substring(0, 49), // Ensure uniqueness and length less than 50
+        distractionFreeMode: false // Facebook-like distraction free mode
+    })
+
+    gitalk.render('gitalk-container')
+</script>
+                        
+                                    
+                                        
     </div>
     
     <div id="player"></div>
@@ -321,7 +347,6 @@
                     console.log(" Blog Update Time: " + newDate.toLocaleDateString());
                     console.log("\n %c \u26a1Theme:Chic Author's Blog:https://blog.itjoker.cn  Write By ITJoker  \n\n", "color: #ffffff; background: rgba(49, 49, 49, 0.85); padding:5px 0;border-radius:5px;");
                 </script>
-        </div>
 </body>
 
 </html>
