@@ -1,0 +1,18 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": true,
+      "cwd": "/Users/wangyuebin/Desktop/c-2022412",
+      "environment": [],
+      "program": "/Users/wangyuebin/Desktop/c-2022412/build/Debug/outDebug",
+      "internalConsoleOptions": "openOnSessionStart",
+      "MIMode": "gdb",
+      "externalConsole": true
+    }
+  ]
+}
